@@ -2,7 +2,7 @@
 
 ## Le challenge
 
-Mon but a été de construire une simple calculatrice en HTML, CSS et JavaScript.
+Mon but a été de construire une simple calculatrice en HTML, CSS et JavaScript. Les internautes vont pouvoir effectuer des additions, des soustractions, des divisions et multiplications. Le résultat de l'opération effectuée va apparaître dans l'écran de la calculatrice. La remise à zéro s'effectue lors du clic sur le bouton C.
 
 ## Démonstration
 
