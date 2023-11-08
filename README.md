@@ -6,7 +6,7 @@ Mon but a été de construire une simple calculatrice en HTML, CSS et JavaScript
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/calculator/
 
 ## Développez avec
 
